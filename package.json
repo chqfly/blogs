@@ -1,7 +1,7 @@
 {
   "scripts": {
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "docs:build": "vuepress build docs"
   },
   "devDependencies": {
     "@vuepress/theme-blog": "^2.2.0"
